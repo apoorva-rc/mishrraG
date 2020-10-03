@@ -16,7 +16,7 @@
 
 Hi, I'm Arpit Mishra, an Android Developer 🚀 from India, currently a CS Junior at <a href ="http://kiit.ac.in/">KIIT University</a>
 
-Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and binging TV shows 📺.
+Beside's developing stuff, I enjoy listening to music 🎧 ,traveling 🏝️🗻 and binging TV shows 📺.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
@@ -27,7 +27,7 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 - 💬 Ask me about Android Development, Competitive Programming and Technology in general.
 - 📫 How to reach me: <a href="mailto:arpitmishra4779@gmail.com">arpitmishra4779@gmail.com</a>
 - 😄 Pronouns: He / Him / Bro / Dude.
-- ⚡ Fun fact: Jack of All trades , master of pun 😂.
+- ⚡ Fun fact: Jack of all trades , master of pun 😂.
 
 &nbsp;
 <br>
